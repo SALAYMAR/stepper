@@ -1,5 +1,7 @@
 # Stepper Motor Control
-![Uploading kupitman.png…]()
+
+![kupitman](https://github.com/user-attachments/assets/1e3ff7e5-64da-4a0f-ad73-1e80be72268c)
+
 
 
 Простой Python-проект для управления шаговым двигателем с GUI.  
