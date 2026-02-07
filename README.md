@@ -1,5 +1,5 @@
 # Stepper Motor Control
-![Uploading 8d0601940fb0074bfd7f0a3401e37709 (1).jpg…]()
+![Uploading 8d0601940fb0074bfd7f0a3401e37709 (1).png…]()
 
 Простой Python-проект для управления шаговым двигателем с GUI.  
 
